@@ -45,8 +45,8 @@ public class KitKatBattery extends View implements IconManagerListener {
     public static final boolean SHOW_100_PERCENT = false;
 
     public static final int[] LEVELS = new int[] { 4, 15, 100 };
-    public static final int[] COLORS = new int[] { 0xFFFF3300, 0xFFFF3300, 0xFFFFFFFF };
-    public static final int BOLT_COLOR = 0xB2000000;
+    public static final int[] COLORS = new int[] { 0xFFFF3300, 0xFFFF3300, 0xFF5457dc };
+    public static final int BOLT_COLOR = 0xFFFFFFFF;
     public static final int FULL = 96;
     public static final int EMPTY = 4;
 
